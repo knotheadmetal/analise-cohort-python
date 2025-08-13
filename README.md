@@ -6,7 +6,7 @@ Este repositório contém um projeto de análise de cohort desenvolvido em Pytho
 
 Analisar o comportamento de grupos de usuários (cohortes) ao longo do tempo, baseado na primeira data de compra, para entender retenção, engajamento ou churn. Este projeto serve como um item de portfólio para análise de dados, sendo simples, bem estruturado e guiado passo a passo.
 
-## Ferramentas Utilizadas
+## Ferramentas Utilizadas 
 
 *   **Python**: Linguagem de programação.
 *   **Pandas**: Para manipulação e análise de dados.
