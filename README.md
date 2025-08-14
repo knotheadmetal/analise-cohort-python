@@ -1,4 +1,4 @@
-# Projeto de Análise de Cohort em Python
+# Projeto de Análise de Cohort em Python 
 
 Este repositório contém um projeto de análise de cohort desenvolvido em Python, utilizando as bibliotecas Pandas, Matplotlib e Seaborn. O objetivo principal é analisar o comportamento de grupos de usuários (cohortes) ao longo do tempo, com foco em retenção e engajamento.
 
